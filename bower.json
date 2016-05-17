@@ -1,6 +1,6 @@
 {
     "name": "adapt-block-background",
-    "repository": "https://github.com/davegosling/adapt-block-background.git",
+    "repository": "git://github.com/davegosling/adapt-block-background",
     "homepage": "https://github.com/davegosling/adapt-block-background",
     "framework": "^2.0.0",
     "version": "0.0.1",
