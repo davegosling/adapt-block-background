@@ -1,0 +1,20 @@
+
+.page {
+    .block {
+        background-color: @background-color;
+            
+        &.banner-block, &.banner-block-mobile {
+            background-color: transparent;
+            
+            background-size: cover;
+            background-position: 50% 50%; 
+            z-index: 0;
+            width: 100%;
+            max-width: 100%;
+
+            transition: opacity 1s;  
+        
+        }
+
+    }
+}
