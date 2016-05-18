@@ -4,7 +4,7 @@
     "homepage": "https://github.com/davegosling/adapt-block-background",
     "framework": "^2.0.0",
     "version": "1.0.0",
-    "issues": "The 'backgroundColor' option needs validation adding to it to stop potentially unwanted CSS from being imlemented.",
+    "issues": "The 'backgroundColor' option needs validation adding to it to stop potentially unwanted CSS from being imlemented. Plugin needs browser testing.",
     "displayName": "Block Background",
     "extension" : "blockBackground",
     "description": "Adds the option of implementing a background graphic or colour to a block element.",
