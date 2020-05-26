@@ -15,7 +15,7 @@ define([
 		_activeId: null,
 
 		initialize: function() {
-			this._blockModels = this.model.findDescendants('blocks').filter(function(model) {
+			this._blockModels = this.model.findDescendantModels('blocks').filter(function(model) {
 				return model.get("_blockBackground");
 			});
 			if(this._blockModels.length == 0) {
